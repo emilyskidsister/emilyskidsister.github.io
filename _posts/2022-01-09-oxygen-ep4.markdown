@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Let's build a voice journal in Rust | Ep. 4: audio exports, std::path"
+date: 2022-01-09 20:01:15 -0400
+categories:
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqo57r5Mkk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Today, we're adding subcommands to export audio clips.

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Let's build a voice journal in Rust | Ep. 2: opus encoding, db migration"
+date: 2022-01-02 20:01:15 -0400
+categories:
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pray6yuCz7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Today, we're taking a brief look at the audio encoding/decoding landscape in Rust and replacing our naive audio encoding with opus.

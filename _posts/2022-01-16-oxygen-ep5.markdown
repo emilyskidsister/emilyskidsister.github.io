@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Let's build a voice journal in Rust | Ep. 5: Electron + napi-rs 2"
+date: 2022-01-16 20:01:15 -0400
+categories:
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qqTDieMvN1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this episode, we're taking our voice journal CLI written in Rust and adding a UI for it. This episode covers many topics very quickly: napi-rs, Electron, Parcel (which uses swc, a JS compiler written in Rust!), React, and Tailwind.
+
+In this series, we're building Oxygen, a voice journal and audio analysis toolkit for people who want to change the way their voice comes across. In the next few episodes, we're going to be improving the UI and setting up GitHub Actions to build Oyxgen for Mac, Windows, and Linux. This involves generally making the build/linting setup less ad hoc. Later on, we'll be adding voice analysis to Oxygen, which is really the whole point.

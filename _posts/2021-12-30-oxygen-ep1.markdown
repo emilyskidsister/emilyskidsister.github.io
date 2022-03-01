@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Let's build a voice journal in Rust | Ep. 1: audio I/O, SQlite, CLI args"
+date: 2021-12-30 20:01:15 -0400
+categories:
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZweInbMBsa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In this series, I'm going to build Oxygen, a voice journal and audio analysis toolkit for people who want to change the way their voice comes across. In the first episode, we're making a CLI clone of the "Voice Memos" app on Apple platforms — it lets you record and play back audio clips. In the next few videos, I'll talk about audio compression/encoding/decoding and make our CLI app a little more fully featured. Later on, I will also be building a UI and diving into audio processing and analysis.

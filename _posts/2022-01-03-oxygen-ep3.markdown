@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Let's build a voice journal in Rust | Ep. 3: audio imports"
+date: 2022-01-03 20:01:15 -0400
+categories:
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCHaCt6ELq8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Today, we're adding a subcommand to import existing audio clips.
