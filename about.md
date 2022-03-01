@@ -19,4 +19,4 @@ learner and a teacher. I seek projects where the right architecture isn’t
 obvious and where experience across the entire stack is important.
 
 If you are still reading, you might be interested in my slightly out of date
-[resume](/JocelynStericker.pdf).
+[resume](/JocelynStericker-2022-02-28.pdf).
